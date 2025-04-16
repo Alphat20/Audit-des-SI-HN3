@@ -2,6 +2,7 @@
 
 Ce dépôt regroupe les supports de cours en filière Humanité Numérique Niveau 3, travaux dirigés et travaux pratiques des modules enseignés par **Thierry MINKA** à l’École Nationale Supérieure Polytechnique de Yaoundé (ENSPY).
 
+
 ## 📚 Audit des Systèmes d’Information
 
 - Cadres normatifs : COBIT, ISO/IEC 27001, ITIL, COSO
@@ -19,6 +20,10 @@ ENSPY_Cours_MINKA/
 ├── Labs/
 
 ```
+=======
+## 📚 Travaux des Etudiants
+C'est dans ce repertoire que chaque étudiant ou groupe d'étudiants met en ligne le resultat du travail qui leur a été donnée à faire.
+
 
 ## 👤 Auteur
 
